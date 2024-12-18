@@ -1,0 +1,16 @@
+body{
+    background: url(img/fon.png);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+button{
+    color: red;
+    padding: 10px 10px;
+    background-color: transparent;
+    /* border: none;*/
+}
